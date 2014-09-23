@@ -1,5 +1,43 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Lololang",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": &C^4!çU",
+      "id": 4,
+      "attr": {
+        "position": [
+          276,
+          -47,
+          4
+        ],
+        "style": {}
+      }
+    },
+    "11": {
+      "title": &t}8I95,$OÛ¨",
+      "id": 5,
+      "attr": {
+        "position": [
+          264,
+          69,
+          3
+        ],
+        "style": {}
+      }
+    },
+    "0.5": {
+      "title": "C¿",
+      "id": 7,
+      "attr": {
+        "position": [
+          24,
+          -110,
+          1
+        ],
+        "style": {}
+      }
+    }
+  }
 }
